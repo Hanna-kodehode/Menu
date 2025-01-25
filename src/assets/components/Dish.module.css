@@ -1,0 +1,17 @@
+img {
+  width: 100%;
+  max-width: 300px;
+}
+
+.menuCards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(225, 225, 225);
+  color: #2c2c2c;
+  border-radius: 15px;
+  padding: 75px 20px;
+  width: 250px;
+}
